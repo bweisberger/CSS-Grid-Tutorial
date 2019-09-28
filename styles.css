@@ -1,0 +1,48 @@
+* {
+  border: 1px red dotted;
+}
+.grid-container-sup-guys {
+  display: grid;
+  background: black;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 150px 150px;
+}
+
+.div1 {
+  background: pink;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  grid-column: 2;
+}
+.div2 {
+  background: blue;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+}
+.div3 {
+  background: purple;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+}
+.div4 {
+  background: teal;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+}
+.div5 {
+  background: brown;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+}
+.div6 {
+  background: magenta;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  grid-row: 1;
+}
