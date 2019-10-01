@@ -3,13 +3,15 @@ Omans Emmanuel: https://medium.com/flexbox-and-grids/how-to-efficiently-master-t
 
 Website being emulated: http://output.jsbin.com/wubudog
 
+Slides: https://docs.google.com/presentation/d/1nPLKlSg5iN2hQudjd9avX8fbu3VfFXtV3hHj_iUgJjU/edit?usp=sharing
+
 ## Key Points:
 
 ### When to use Grid:
 
 It depends. You'll hear as an answer that flexbox is a one-dimensional system and grid is two-dimensional, but that alone doesn't help ME decide which to use. If you know exactly what layout you want on your page, top to bottom and left to right, you can use grid to make it. If you have some content to space along one axis, go ahead and use flexbox.
 
-### Media queries help, but grid is great at responsive layouts.
+### Media queries help, but grid is great at responsive layouts on its own.
 
 ### Grid areas are better for responsive design
 
